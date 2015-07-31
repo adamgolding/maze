@@ -1,10 +1,10 @@
-package com.mygdx.game.android;
+package all.adam.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.mygdx.game.Maze;
+import all.adam.Maze;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override
